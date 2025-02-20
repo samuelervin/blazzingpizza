@@ -8,9 +8,9 @@ namespace BlazingPizza
     /// </summary>
     public class Pizza
     {
-        public const int DefaultSize = 12;
-        public const int MinimumSize = 9;
-        public const int MaximumSize = 17;
+        public const int DefaultSize = 14;
+        public const int MinimumSize = 10;
+        public const int MaximumSize = 18;
 
         public int Id { get; set; }
 
